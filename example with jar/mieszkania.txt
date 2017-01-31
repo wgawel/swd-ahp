@@ -1,0 +1,20 @@
+# Schemat pliku z danymi mieszkañ:
+# 
+# nazwa mieszkania
+# odleg³oœæ od centrum miasta [m]
+# wielkoœæ mieszkania [m2]
+# numer piêtra na którym siê znajduje
+# liczba odje¿d¿aj¹cych linii komunikacji miejskiej w odleg³oœci 500 metrów od mieszkania
+# cena – op³ata miesiêczna za wynajem [z³]
+# odleg³oœæ od miejsca pracy [m]
+# subiektywna ocena mieszkania przez u¿ytkownika 
+
+Mieszkanie na ul. Powstañców Œl¹skich 114/20
+
+Mieszkanie na ul. KuŸnicza 12/3
+
+Mieszkanie na pl. œw. Macieja 2/3
+
+Mieszkanie na ul. Drukarska 20/32
+
+Mieszkanie na ul. Karmelkowa 22/1

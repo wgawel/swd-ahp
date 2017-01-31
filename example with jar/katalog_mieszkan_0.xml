@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<katalog>
+    <mieszkania>
+        <cena>1500</cena>
+        <liczbaLiniiKomunikacjiMiejskiej>5</liczbaLiniiKomunikacjiMiejskiej>
+        <nazwaMieszkania>Powstańców Śląskich 114/20</nazwaMieszkania>
+        <numerPietra>8</numerPietra>
+        <odlegloscOdCentrumMiasta>4000</odlegloscOdCentrumMiasta>
+        <odlegloscOdPracy>6000</odlegloscOdPracy>
+        <subiektywnaOcenaUzytkownika>SREDNIO_PREFEROWANE</subiektywnaOcenaUzytkownika>
+        <wielkoscMieszkania>52</wielkoscMieszkania>
+    </mieszkania>
+    <mieszkania>
+        <cena>1800</cena>
+        <liczbaLiniiKomunikacjiMiejskiej>1</liczbaLiniiKomunikacjiMiejskiej>
+        <nazwaMieszkania>ul. Kuźnicza 12/3</nazwaMieszkania>
+        <numerPietra>2</numerPietra>
+        <odlegloscOdCentrumMiasta>500</odlegloscOdCentrumMiasta>
+        <odlegloscOdPracy>3000</odlegloscOdPracy>
+        <subiektywnaOcenaUzytkownika>SREDNIO_PREFEROWANE</subiektywnaOcenaUzytkownika>
+        <wielkoscMieszkania>34</wielkoscMieszkania>
+    </mieszkania>
+    <mieszkania>
+        <cena>1100</cena>
+        <liczbaLiniiKomunikacjiMiejskiej>2</liczbaLiniiKomunikacjiMiejskiej>
+        <nazwaMieszkania>pl. św. Macieja 2/3</nazwaMieszkania>
+        <numerPietra>0</numerPietra>
+        <odlegloscOdCentrumMiasta>1200</odlegloscOdCentrumMiasta>
+        <odlegloscOdPracy>3000</odlegloscOdPracy>
+        <subiektywnaOcenaUzytkownika>MALO_PREFEROWANE</subiektywnaOcenaUzytkownika>
+        <wielkoscMieszkania>55</wielkoscMieszkania>
+    </mieszkania>
+    <mieszkania>
+        <cena>1700</cena>
+        <liczbaLiniiKomunikacjiMiejskiej>4</liczbaLiniiKomunikacjiMiejskiej>
+        <nazwaMieszkania>ul. Drukarska 20/32</nazwaMieszkania>
+        <numerPietra>6</numerPietra>
+        <odlegloscOdCentrumMiasta>5000</odlegloscOdCentrumMiasta>
+        <odlegloscOdPracy>4500</odlegloscOdPracy>
+        <subiektywnaOcenaUzytkownika>SREDNIO_PREFEROWANE</subiektywnaOcenaUzytkownika>
+        <wielkoscMieszkania>34</wielkoscMieszkania>
+    </mieszkania>
+    <mieszkania>
+        <cena>1100</cena>
+        <liczbaLiniiKomunikacjiMiejskiej>2</liczbaLiniiKomunikacjiMiejskiej>
+        <nazwaMieszkania>ul. Karmelkowa 22/1</nazwaMieszkania>
+        <numerPietra>0</numerPietra>
+        <odlegloscOdCentrumMiasta>8000</odlegloscOdCentrumMiasta>
+        <odlegloscOdPracy>9000</odlegloscOdPracy>
+        <subiektywnaOcenaUzytkownika>MOCNO_PREFEROWANE</subiektywnaOcenaUzytkownika>
+        <wielkoscMieszkania>58</wielkoscMieszkania>
+    </mieszkania>
+    <mieszkania>
+        <cena>1400</cena>
+        <liczbaLiniiKomunikacjiMiejskiej>1</liczbaLiniiKomunikacjiMiejskiej>
+        <nazwaMieszkania>ul. Czarna 12/2</nazwaMieszkania>
+        <numerPietra>0</numerPietra>
+        <odlegloscOdCentrumMiasta>10000</odlegloscOdCentrumMiasta>
+        <odlegloscOdPracy>11000</odlegloscOdPracy>
+        <subiektywnaOcenaUzytkownika>MOCNO_PREFEROWANE</subiektywnaOcenaUzytkownika>
+        <wielkoscMieszkania>88</wielkoscMieszkania>
+    </mieszkania>
+</katalog>
